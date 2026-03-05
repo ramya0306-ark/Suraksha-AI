@@ -1,0 +1,9 @@
+Streamlit
+Numpy
+Matplotlib 
+Folium
+streamlit-folium
+streamlit-geolocation
+TensorFlow
+scikit-learn
+joblib
